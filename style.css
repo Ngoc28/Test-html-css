@@ -70,6 +70,9 @@ header span {
 }
 
 /* about */
+main {
+    margin-top: 55px;
+}
 
 .about {
     position: relative;
@@ -260,9 +263,7 @@ header span {
 
 
 /* contact */
-main {
-    position: absolute;
-}
+
 .contact {
     padding: 20px 50px;
     
